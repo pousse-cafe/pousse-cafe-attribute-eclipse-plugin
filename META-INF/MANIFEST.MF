@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Pousse-Café Attribute Eclipse Plugin
 Bundle-SymbolicName: poussecafe.attribute.eclipse.plugin
-Bundle-Version: 0.26.0.202102031108
-Bundle-ClassPath: pousse-cafe-attribute-0.26.0-SNAPSHOT.jar
+Bundle-Version: 0.29.0.202112302029
+Bundle-ClassPath: pousse-cafe-attribute-0.29.0-SNAPSHOT.jar
 Export-Package: poussecafe.attribute,
  poussecafe.attribute.adapters,
  poussecafe.attribute.list,
